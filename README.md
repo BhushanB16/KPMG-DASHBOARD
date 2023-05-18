@@ -4,7 +4,7 @@ This is my submission for the " KPMG Virtual Internship Program" through Forage.
 
 These processes were primarily involved;
 
-• Data Cleaning
+• **Data Cleaning**
 As the saying goes ‘Garbage in, garbage out.’ Using dirty data will lead to flawed insights.
 These approaches were considered for this task;
 1. Remove irrelevant data (columns)
@@ -14,15 +14,17 @@ These approaches were considered for this task;
 5. Eliminate Outliers
 6. Validate data
 
-• Outline of Problem
+• **Outline of Problem**
+
 ·   Sprocket Central is a company that specializes in high-quality bikes and accessories.
 ·   The marketing team is looking to boost sales.
 · Target job industries are "Health", "Financial Service", "Manufacturing", and "Agriculture".
 
-• Learnings from the project
+• **Learnings from the project**
+
 ·   Understating the client’s requirements by studying the metrics list.
 ·   In-depth knowledge of power bi.
 ·   Use of proper visuals.
 ·  Critical thinking and problem-solving skills.
 
-• Power BI Visualization Tool was used for the analysis and visualization.
+• **Power BI** Visualization Tool was used for the analysis and visualization.
